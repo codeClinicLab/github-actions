@@ -1,7 +1,7 @@
- on:
+ -on:
    push:
    branches:
-   -main
+   main
  
  name: FTP Deploy
   # You may pin to the exact commit or the version.
