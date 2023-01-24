@@ -16,4 +16,4 @@ jobs:
         password: ${{ secrets.ftp_password }}
         #protocol: ftp
         #port: 21 # todo replace with your web hosts ftps port
-        server-dir: /home/stagg2leadsdrip3/www/
+        #server-dir: /home/stagg2leadsdrip3/www/
